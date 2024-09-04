@@ -28,6 +28,7 @@ Dockerfile Dockerfile
 
 # Write a Build Pipeline with AWS CodeBuild
 buildspec File buildspec
+![codebuild](https://github.com/user-attachments/assets/c3c919ab-6c4d-4960-aeff-37ce0c681915)
 
 BulidCode history BulidCode history
 
@@ -39,6 +40,8 @@ kubectl describe svc
 List Services List Services List Describe Services Kubernetes List Describe Services Kubernetes List Describe Services Postgres DB List Describe Services Postgres DB List Describe Services Project3 API List Describe Services Project3 API
 
 List Pods
+![describe deployment](https://github.com/user-attachments/assets/af44476d-0677-45eb-97ee-69f730647c86)
+![pods_depolyment-services](https://github.com/user-attachments/assets/800c29d3-0f3e-4157-927f-22b72ec9e66a)
 
 kubectl get pods
 kubectl describe pods
@@ -49,8 +52,10 @@ List Deployments
 kubectl get deployments
 kubectl describe deployment project3-api
 List Deployments List Deployments List Describe Deployments List Describe Deployments
+![ECR repository ](https://github.com/user-attachments/assets/88225c0e-9306-40ad-bfca-01210f252333)
 
 AWS CloudWatch for Logs
 CloudWatch Cluster Logs CloudWatch Cluster Logs CloudWatch Logs CloudWatch Logs
+![cloud watch 1](https://github.com/user-attachments/assets/114de41c-a159-400a-87a8-4925b54ff954)
 
-![Screenshot 2024-09-04 230907](https://github.com/user-attachments/assets/9667d7fa-5e5a-4545-a0d5-936b1bfb861b)
+
