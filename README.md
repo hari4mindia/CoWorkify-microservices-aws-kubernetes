@@ -59,3 +59,4 @@ CloudWatch Cluster Logs CloudWatch Cluster Logs CloudWatch Logs CloudWatch Logs
 ![cloud watch 1](https://github.com/user-attachments/assets/114de41c-a159-400a-87a8-4925b54ff954)
 
 
+![alt text](<postgres running.PNG>) ![alt text](<application running.PNG>) ![alt text](<cloudwatch logs eks.PNG>) ![alt text](<cloudwatch logs eks2.PNG>) ![alt text](cloudwatch_appLogs.PNG) ![alt text](<pods_ kubernates.PNG>)
